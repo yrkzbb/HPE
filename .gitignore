@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+*.sh
+.DS_Store
+pretrain_model_b.pth

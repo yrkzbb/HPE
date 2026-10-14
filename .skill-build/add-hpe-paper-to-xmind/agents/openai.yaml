@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add HPE Paper to XMind"
+  short_description: "Analyze and add HPE papers to an XMind research network"
+  default_prompt: "Use $add-hpe-paper-to-xmind to analyze this paper and add it to my existing HPE XMind network."
